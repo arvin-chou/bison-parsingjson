@@ -1,0 +1,13 @@
+{
+    begin : {
+            DoThis: text,
+            DoThis: 1,
+            DoThat: that,
+            DoThat: 2
+    }, test: {
+            DoThis: text,
+            DoThis: 1,
+            DoThat: that,
+            DoThat: 2
+    }
+}
